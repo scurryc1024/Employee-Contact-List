@@ -1,1 +1,1 @@
-# Employee-Contact-List
+This document describes a Windows Form Application designed to help employers create and track employee contact information. The application will allow a user to input employee contact data, save any changes to the contact list, and allow the user to export the data. The application will be designed for Windows machines targeting devices with .net framework. During the projects development we plan to use a Waterfall development process. Once the applications core functionality is achieved additional features will be considered.
